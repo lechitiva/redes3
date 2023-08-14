@@ -1,1 +1,29 @@
+certificacion en cisco 
 
+¿Qué es CCNA y para qué sirve esta certificación CISCO?
+CCNA, ¿qué es?
+CCNA (Cisco Certified Network Associate) es una certificación entregada por la compañía Cisco Systems a las personas que hayan superado satisfactoriamente el examen correspondiente sobre infraestructuras de red e Internet.
+
+Está orientada a los profesionales que operan equipos para redes de datos. Con nuestro curso formativo podrás conseguir la certificación oficial CCNA, una vez superados los exámenes exigidos.
+
+
+Niveles de las certificaciones Cisco
+Existen diferentes niveles de certificación CCNA, que van de menor a mayor complejidad. Veamos cuáles son:
+
+CCENT (Cisco Certified Entry Networking Technician)
+Es el primer paso hacia la certificación CCNA y te ayudará a destacar entre la multitud en posiciones de nivel principiante. Tener CCENT significa que tienes lo que se necesita para administrar una pequeña red de sucursales empresariales.
+
+CCNA (Cisco Certified Networking Associate)
+Es una de las certificaciones más importantes dentro de la industria de la Tecnología de la Información. Esta certificación representa el nivel asociado, orientada a habilidades prácticas en el diagnóstico y solución de problemas específicos de redes.
+
+CCNP (Cisco Certified Networking Professional)
+Aporta conocimientos y experiencia práctica para diseñar y brindar soporte a redes empresariales complejas en un entorno real, proporcionará una base duradera ya que estas habilidades son igualmente relevantes en las redes físicas de hoy y las funciones de red virtualizadas del mañana.
+
+CCIE (Cisco Certified Internetwork Expert)
+Evalúa las habilidades de diseño de redes de infraestructura a nivel de expertos en todo el mundo. Esta certificación es aceptada en todo el mundo como las más prestigiosa certificación de redes en la industria.
+
+Cisco Certified Architect
+Es la certificación de más alto nivel dentro del programa de certificación de Cisco. Es el tope de la pirámide para quienes quieran validar sus conocimientos en la tecnología de Cisco y de arquitectura de la infraestructura.
+
+Ventajas de tener una certificación CCNA
+Si el día de mañana te conviertes en un profesional certificado en Cisco CCNA , tendrás los conocimientos necesarios para instalar y configurar la infraestructura de redes que conecta todos los dispositivos dentro de una empresa.
