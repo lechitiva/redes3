@@ -1,0 +1,67 @@
+protocolos.txt
+1. definicion
+Un protocolo de red es un estándar de comunicaciones. Contiene las reglas necesarias y la información sobre cómo las computadoras intercambian datos entre sí. Se requiere una interacción de diferentes tipo para diversas tareas, como, por ejemplo, el simple intercambio de mensajes.
+
+2. criterios de clasificiacion o tipos de clasificacion
+
+Topología de red: Los protocolos pueden ser clasificados en función de la topología de la red en la que operan. Por ejemplo, pueden ser diseñados para redes de tipo estrella, bus, anillo, malla, etc.
+
+Orientación de la comunicación:
+
+Simplex: La comunicación ocurre en una dirección única. Ejemplo: radio FM.
+Half-Duplex: La comunicación puede ocurrir en ambas direcciones, pero no simultáneamente. Ejemplo: walkie-talkie.
+Full-Duplex: La comunicación puede ocurrir en ambas direcciones simultáneamente. Ejemplo: llamadas telefónicas.
+Nivel en la pila OSI: Los protocolos pueden ser clasificados en función del nivel en la pila OSI en el que operan, como capa física, capa de enlace de datos, capa de red, etc.
+
+Protocolos de transporte:
+
+TCP (Protocolo de Control de Transmisión): Orientado a la conexión, confiable y garantiza la entrega ordenada de datos.
+UDP (Protocolo de Datagramas de Usuario): No orientado a la conexión, no garantiza la entrega ni el orden de los datos, pero es más rápido.
+Características de conexión:
+
+Orientados a la conexión: Requieren un proceso de establecimiento y liberación de conexión antes de la transmisión de datos. Ejemplo: TCP.
+Sin conexión: Los datos se envían sin establecer una conexión previa. Ejemplo: UDP.
+Tipo de servicio:
+
+Orientado a la conexión: Se establece una sesión continua entre los dispositivos. Ejemplo: SSH (Secure Shell).
+No orientado a la conexión: Los mensajes son independientes entre sí. Ejemplo: HTTP (Hypertext Transfer Protocol).
+Uso y aplicación:
+
+Correo electrónico: SMTP (Simple Mail Transfer Protocol).
+Transferencia de archivos: FTP (File Transfer Protocol).
+Navegación web: HTTP (Hypertext Transfer Protocol).
+Seguridad: SSL/TLS (Secure Sockets Layer/Transport Layer Security).
+Encriptación y seguridad:
+
+Seguros: Utilizan técnicas de encriptación y autenticación para proteger los datos. Ejemplo: HTTPS (HTTP Secure).
+No seguros: No proporcionan seguridad adicional. Ejemplo: HTTP.
+Tecnología subyacente:
+
+Cableado: Utilizan cables físicos para la transmisión. Ejemplo: Ethernet.
+
+Inalámbricos: Utilizan señales de radio o microondas para la transmisión. Ejemplo: Wi-Fi.
+Alcance geográfico:
+
+LAN (Red de Área Local): Limitada a un área geográfica pequeña.
+WAN (Red de Área Amplia): Se extiende sobre una amplia área geográfica.
+
+3. protocolo principales 
+
+HTTP: Es un protocolo de los más importantes en Internet ya que hace posible la transferencia de documentos de tipo “Hipertexto” (en su interior existen enlaces que nos permiten acceder a otros). El lenguaje que utiliza es HTML.
+
+DNS: Transforma las direcciones IP en nombres más fáciles de utilizar. Muchas veces son nombres de empresas o instituciones. Hay servidores en el mundo que permiten establecer esta transferencia de dirección IP a DNS y viceversa.
+
+DHCP: Es el protocolo de configuración dinámica de host de tipo cliente / servidor. Permite que los dispositivos obtengan una configuración de red de forma automática. Tiene como ventajas una fácil administración (ya que no se hace de forma manual) y la asignación es confiable (evita colisiones), entre otras. Pero su desventaja más grande es la falta de seguridad en redes inalámbricas (si un intruso intenta conectarse recibirá una dirección IP de forma automática, pero si el protocolo DHCP está deshabilitado el intruso tendría que configurar manualmente la dirección IP y sería más complicado).
+
+SMTP: Es un protocolo de transferencia simple de correo, es decir, tal y como su propio nombre indica se utiliza para enviar y recibir correos electrónicos. Su importancia en el área de la informática, negocios y cualquiera que utilice servidores mail es fundamental.
+
+ARP: Es un protocolo de resolución de direcciones. Se encarga de resolver direcciones físicas o MAC, es decir, descubre la dirección MAC de un dispositivo de la red local y se la da a conocer a otro dispositivo dentro de la misma red.
+
+IP: Este protocolo está muy relacionado con el envío de los datos, pero los datos son segmentados en bloques o paquetes. Gestiona las direcciones IP, pero no proporciona mecanismos para verificar que los datos transmitidos llegan y se entienden correctamente en el destino final. Un aspecto muy importante en este protocolo es la dirección IP.
+
+referencias 
+
+https://openwebinars.net/blog/protocolo-de-red-que-es-tipos-y-caracteristicas/
+https://autmix.com/blog/que-es-protocolo-red
+https://www.ibm.com/docs/es/aix/7.2?topic=protocols-internet-application-level
+
