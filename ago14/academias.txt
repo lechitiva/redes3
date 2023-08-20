@@ -1,29 +1,42 @@
-certificacion en cisco 
+Curso de Cisco Packet Tracer
+En el curso de Cisco Packet Tracer se tiene como propósito, que el estudiante comprenda los aspectos fundamentales de esta herramienta dedicada al aprendizaje y simulación de redes interactivas, conociendo de esta manera cómo realizar diseños lógicos y físicos de una red, servicios básicos, protocolos de enrutamiento, y otros temas relacionados. Es fácil de aprender y solo se requiere tener conocimientos elementales en redes.
 
-¿Qué es CCNA y para qué sirve esta certificación CISCO?
-CCNA, ¿qué es?
-CCNA (Cisco Certified Network Associate) es una certificación entregada por la compañía Cisco Systems a las personas que hayan superado satisfactoriamente el examen correspondiente sobre infraestructuras de red e Internet.
+Modalidad 100% virtual
+El contenido está disponible las 24 horas del día para que puedas estudiar en tu propio horario.
 
-Está orientada a los profesionales que operan equipos para redes de datos. Con nuestro curso formativo podrás conseguir la certificación oficial CCNA, una vez superados los exámenes exigidos.
+cetificacion 
+Al finalizar el Curso de Cisco Packet Tracer puedes obtener un certificado de estudios, con validez internacional. 
+
+Qué aprenderás
+A lo largo del curso de Cisco Packet Tracer aprenderás:
+Conocer en qué consiste el programa.
+Analizar la interfaz del programa.
+Conocer las herramientas del programa.
+Comprender qué son y cómo se utilizan cada uno de los componentes.
+Analizar la creación de redes con el programa.
+Aplicar los conocimientos adquiridos en la solución de problemas.
+
+1 semanas estimadas
+1-2 horas por semana
+
+Video clases
+Aprende a través de videos explicativos y lecturas concretas
+
+Título a certificar
+fundamentos de cisco packet tracer. By Edutin Academy USA.
+
+Programa del curso:
+Unidad 1. Introducción al programa
+Unidad 2. Conociendo la interfaz
+Unidad 3. Configuraciones básicas
+Unidad 4. Routers y enrutamiento estático
+Unidad 5. Vlans
+Unidad 6. Enrutamiento dinámico
+Unidad 7. DHCP y ACL
+Unidad 8. NATs
+Unidad 9. Servicios y protocolos
+Unidad 10. Retroalimentación
+https://edutin.com/curso-de-Cisco-Packet-Tracer
 
 
-Niveles de las certificaciones Cisco
-Existen diferentes niveles de certificación CCNA, que van de menor a mayor complejidad. Veamos cuáles son:
 
-CCENT (Cisco Certified Entry Networking Technician)
-Es el primer paso hacia la certificación CCNA y te ayudará a destacar entre la multitud en posiciones de nivel principiante. Tener CCENT significa que tienes lo que se necesita para administrar una pequeña red de sucursales empresariales.
-
-CCNA (Cisco Certified Networking Associate)
-Es una de las certificaciones más importantes dentro de la industria de la Tecnología de la Información. Esta certificación representa el nivel asociado, orientada a habilidades prácticas en el diagnóstico y solución de problemas específicos de redes.
-
-CCNP (Cisco Certified Networking Professional)
-Aporta conocimientos y experiencia práctica para diseñar y brindar soporte a redes empresariales complejas en un entorno real, proporcionará una base duradera ya que estas habilidades son igualmente relevantes en las redes físicas de hoy y las funciones de red virtualizadas del mañana.
-
-CCIE (Cisco Certified Internetwork Expert)
-Evalúa las habilidades de diseño de redes de infraestructura a nivel de expertos en todo el mundo. Esta certificación es aceptada en todo el mundo como las más prestigiosa certificación de redes en la industria.
-
-Cisco Certified Architect
-Es la certificación de más alto nivel dentro del programa de certificación de Cisco. Es el tope de la pirámide para quienes quieran validar sus conocimientos en la tecnología de Cisco y de arquitectura de la infraestructura.
-
-Ventajas de tener una certificación CCNA
-Si el día de mañana te conviertes en un profesional certificado en Cisco CCNA , tendrás los conocimientos necesarios para instalar y configurar la infraestructura de redes que conecta todos los dispositivos dentro de una empresa.
