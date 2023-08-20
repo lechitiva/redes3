@@ -39,4 +39,30 @@ Unidad 10. Retroalimentación
 https://edutin.com/curso-de-Cisco-Packet-Tracer
 
 
+Cisco Packet Tracer
+Practique habilidades de redes, IoT y ciberseguridad virtualmente con Cisco Packet Tracer, nuestra poderosa herramienta de simulación y visualización. Para descargar la última versión, inscríbase hoy mismo en nuestro breve curso Primeros pasos con Cisco Packet Tracer.
 
+Todo el contenido
+Introducción a Cisco Packet Tracer: 2 horas
+Esto es lo que aprenderá
+Módulo 1: Descargue y Use Cisco Packet Tracer
+Módulo 2: Creación de una red Cisco Packet Tracer
+Introducción al examen final del curso Cisco Packet Tracer.
+
+Exploración de redes con Cisco Packet Tracer: 3 horas 
+Esto es lo que aprenderá
+Módulo 1: Configure su Red de Oficina Pequeña
+Módulo 2: Administre y Supervise su Red de Sucursal
+Examen Final del Curso Exploración de Redes con Cisco Packet Tracer
+
+Exploración de IoT con Cisco Packet Tracer: 3 horas
+Esto es lo que aprenderá
+Módulo 1: Cree su propia red doméstica inteligente
+Módulo 2: Controles ambientales y cosas de IoT en Packet Tracer
+Examen Final del curso Exploración de IoT con Cisco Packet Tracer.
+
+Introducción al examen Packet Tracer: 15 preguntas
+Esto es lo que aprenderá//
+Examen de Introducción a Packet Tracer
+
+https://skillsforall.com/es/learningcollections/cisco-packet-tracer?courseLang=es-XL&utm_source=netacad.com&utm_medium=referral&utm_campaign=packet-tracer&userlogin=0
