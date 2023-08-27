@@ -66,3 +66,51 @@ Esto es lo que aprenderá//
 Examen de Introducción a Packet Tracer
 
 https://skillsforall.com/es/learningcollections/cisco-packet-tracer?courseLang=es-XL&utm_source=netacad.com&utm_medium=referral&utm_campaign=packet-tracer&userlogin=0
+
+Asociado certificado de Juniper Networks - Junos (JNCIA-Junos)
+
+La JNCIA-Junos es la certificación de nivel asociado para las tecnologías de Juniper Networks. Es el primer paso necesario para aquellos que quieren seguir con certificaciones más avanzadas de Juniper Networks en tecnologías de centros de datos, enrutamiento y conmutación de empresas o enrutamiento y conmutación de proveedores de servicios.
+
+Costo: $4,052.48 (200 USD)
+Requisitos: Requiere un examen. No hay requisitos previos.
+
+Qué se examina: Fundamentos del sistema operativo Junos—arquitectura de software y procesamiento de tráfico en tránsito, fundamentos de configuración, política de enrutamiento y filtros de cortafuegos.
+
+Horarios
+Live Fundamental Courses Offered 
+AMER Sessions
+July 31, 2023 - 9:00am - 11:00am PDT
+August 28, 2023 - 9:00am - 11:00am PDT
+September 25, 2023 - 9:00am - 11:00am PDT
+
+APAC Sessions
+July 31, 2023 - 1:00pm - 3:00pm SGT
+August 28, 2023 - 1:00pm - 3:00pm SGT
+September 25, 2023 - 1:00pm - 3:00pm SG
+ https://jumpstartjunos.splashthat.com
+
+Profesional certificado de SolarWinds
+Con la credencial de Profesional certificado de SolarWinds podrás utilizar y mantener los productos de red y sistemas de SolarWinds. Los productos de SolarWinds se utilizan de forma destacada en determinados sectores, como el gubernamental y el contable.
+
+Costo: $4,052.48 (200 USD)
+Requisitos: Requiere un examen. No hay requisitos previos.
+Qué se examina: Diagnóstico, análisis del rendimiento de la base de datos, configuración de la red, monitorización del rendimiento, arquitectura de la red.
+
+proceso a seguir: Empezar es muy fácil. Sólo tiene que registrarse en SolarWinds y buscar un correo electrónico de confirmación. A continuación, comience a estudiar utilizando la Guía de estudio del examen asociada. Una vez listo, simplemente siga las instrucciones para registrarse y programar el examen.
+https://support.solarwinds.com/solarwinds-certified-professional-program
+
+
+Coursera: CompTIA Network
+
+La certificación CompTIA Network+, que no depende de ningún proveedor, pone a prueba tu comprensión de los fundamentos de las redes, independientemente de la empresa de la que proceda la tecnología de redes. CompTIA también ofrece la certificación CompTIA A+ para aquellos que buscan puestos de trabajo de TI de nivel de entrada—el Certificado profesional de Soporte de TI de Google puede capacitarte para esto.
+
+Especificaciones:
+Nivel principiante
+6 meses con 10 horas a la semana
+Cronograma flexible
+Costo: $7,699.70 (338 USD) y cuenta con ayuda economica
+
+Requisitos: Requiere un examen. No hay requisitos previos, aunque se recomiendan entre nueve y 12 meses de experiencia en redes o la certificación CompTIA A+.
+
+Qué se examina: Conceptos esenciales de redes, tecnologías de cableado, dispositivos y almacenamiento, gestión de redes, seguridad, y metodología y herramientas de resolución de problemas.
+https://www.coursera.org/professional-certificates/google-it-support?action=enroll
